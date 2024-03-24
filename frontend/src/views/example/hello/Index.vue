@@ -1,14 +1,6 @@
 <template>
   <section id="hero">
-    <h1 class="tagline">
-      <span class="accent">Electron-Egg</span>
-    </h1>
-    <p class="description">
-      A fast, desktop software development framework
-    </p>
-    <p class="actions">
-      <a class="setup" href="https://www.kaka996.com/" target="_blank">Get Started</a>
-    </p>
+    <div>111</div>
   </section>
 </template>
 <script>
